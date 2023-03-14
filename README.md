@@ -16,7 +16,7 @@
   <img align="center" alt="Tiago-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Tiago-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Tiago-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Tiago-pic" height="150" style="border-radius:10px;" src="https://avatars.githubusercontent.com/u/13766601?s…00&u=0b91746ecd08c63c1e0d9296634be352781f5b98&v=4">
+  <!--<img align="right" alt="Tiago-pic" height="150" style="border-radius:10px;" src="https://avatars.githubusercontent.com/u/13766601?s…00&u=0b91746ecd08c63c1e0d9296634be352781f5b98&v=4">-->
 </div>
 
 ##
